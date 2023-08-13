@@ -4,6 +4,6 @@
     "version": "0.0.1",
     "description": "A feature to install the dev server of Temporal",
     "installsAfter": [
-        "ghcr.io/devcontainers/features/common-utils"
+        "ghcr.io/devcontainers/features/git"
     ]
 }
