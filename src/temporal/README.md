@@ -7,7 +7,7 @@ A feature to install the dev server of Temporal
 
 ```json
 "features": {
-    "ghcr.io/Teamgrow-info/features/temporal:0": {}
+    "ghcr.io/Teamgrow-info/features/temporal:1": {}
 }
 ```
 
