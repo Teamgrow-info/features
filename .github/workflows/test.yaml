@@ -32,8 +32,7 @@ jobs:
     strategy:
       matrix:
         features:
-          - color
-          - hello
+          - temporal
     steps:
       - uses: actions/checkout@v3
 
